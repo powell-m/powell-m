@@ -1,4 +1,4 @@
-# 'powell-m's GitHub profile
+# powell-m
 
 - [test directory](https://github.com/powell-m/test_public)
 
